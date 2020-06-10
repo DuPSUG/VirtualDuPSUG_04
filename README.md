@@ -20,7 +20,7 @@ We have the following speakers presenting:
 
 ## Agenda
 
-The event will take place on the 18th of June, all times here are listed in CEST. For the starting time in your local timezone please use the following link: 
+The event will take place on the 18th of June, all times here are listed in CEST. For the starting time in your local timezone please use the following link: [June 18th, 18:00 CEST](https://everytimezone.com/s/81226cde)
 
 ## Session Information
 
