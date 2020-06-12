@@ -17,6 +17,7 @@ All recordings are available in the following YouTube playlist:
 We have the following speakers presenting:
 
 * 
+*
 
 ## Agenda
 
