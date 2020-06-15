@@ -1,6 +1,6 @@
 # Virtual DuPSUG 👷‍🏡
 
-![2020-05-09_VirtualDuPSUG4]()
+![2020-05-09_VirtualDuPSUG4](https://user-images.githubusercontent.com/12744735/84689644-907bf800-af41-11ea-8a99-8a00fd11d3ce.png)
 
 This is a virtual edition of our user group, with a special focus on PowerShell Developer technologies, Azure and of course a deep dive into PowerShell. We have made the decision to host this event virtually for the first time, and we are excited to be able to open up our local user group to the global stage for the first time! We have an evening with diverse and advanced topics prepared for you presented by experienced speakers. Registration through Eventbrite is optional, with the benefit that you’ll receive an email notification with the streaming link and a calendar invite.
 
@@ -16,8 +16,8 @@ All recordings are available in the following YouTube playlist:
 
 We have the following speakers presenting:
 
-* 
-*
+* <a href="https://twitter.com/ThomasMaurer">Thomas Maurer</a> - Senior Cloud Advocate at Microsoft
+* <a href="https://twitter.com/ralpje">Ralph Eckhard</a> - Microsoft Cloud Architect for ProAct
 
 ## Agenda
 
