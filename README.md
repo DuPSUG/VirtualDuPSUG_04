@@ -23,13 +23,25 @@ We have the following speakers presenting:
 
 The event will take place on the 18th of June, all times here are listed in CEST. For the starting time in your local timezone please use the following link: [June 18th, 18:00 CEST](https://everytimezone.com/s/81226cde)
 
+* 1745-1800 Announcements – Jaap Brasser & Barbara Forbes
+* 1800-1900 How I work from home as a Microsoft Blue Badge – Thomas Maurer
+* 1900-2000 Awesome !@#$ with MS Teams – Ralph Eckhard
+
 ## Session Information
 
 ### DuPSUG Announcements
 
 Informational session about the event, agenda of the evening future events and updates from the PowerShell world. We will announce the next virtual edition of DuPSUG here and we will be happy to hear your feedback about what content, which sessions or even which speakers you would like to see at future editions of our virtual user group.
 
-### 
+### How I work from home as a Microsoft Blue Badge
+
+Many of us were finding ourselves in a new situation when we started working from home. Thomas Maurer shares his experience working from home as a Microsoft Cloud Advocate in the Azure team. Thomas has been working remotely for a long time and shares his experience as a remote employee. He talks about how he set up his workspace, manages his tasks, collaborates with his team, and shares a couple of his routines which might also help you.
+
+### Awesome !@#$ with MS Teams
+
+So this whole COVID-thing got you using (and managing) MS Teams, right?
+
+Let’s look at all the options you have to mange your Teams settings through PowerShell. We’ll run by the different modules for the different parts of MS Teams and share some of the best practices from the field.
 
 ## Speaker Information
 
